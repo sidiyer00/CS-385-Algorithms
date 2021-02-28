@@ -1,6 +1,6 @@
 /*******************************************************************************
  * Name        : unique.cpp
- * Author      : Siddharth Iyer
+ * Author      : Siddharth Iyer and Leonid Maksymenko
  * Date        : February 27, 2021
  * Description : Determining uniqueness of chars with int as bit vector.
  * Pledge      : I pledge my honor that I have abided by the Stevens Honor System.
